@@ -1,4 +1,7 @@
 ## Autoregressive High-Order Finite Difference Modulo Imaging: High-Dynamic Range for Computer Vision Applications
+
+[![DOI:10.1007/978-3-031-91838-4_13](https://zenodo.org/badge/DOI/10.1007/978-3-031-91838-4_13.svg)](https://doi.org/10.1007/978-3-031-91838-4_13)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.04228-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2504.04228)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bemc22/AHFD/blob/main/demo.ipynb)
 [![demo](https://img.shields.io/badge/demo-online-green)](https://huggingface.co/spaces/kebincontreras/Object_Detection_Modulo_Camera)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/bemc22/AHFD)
