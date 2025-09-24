@@ -9,3 +9,17 @@ High dynamic range (HDR) imaging is vital for capturing the full range of light 
 ### AHFD Algorithm
 Proposed AHFD method for HDR image restoration from modulo measurements composed of three components: 1) Autoregressive Phase Unwrapping, 2) Stripe Artifact Removal, and 3) The operator $\textbf{P}\texttt{vec}$ to adapt AHFD for matrices. 
 ![img](img_method.png)
+
+### How to cite
+If this code is useful for your research and you use it in an academic work, please consider citing this paper as
+
+```bib
+@inproceedings{monroy2024autoregressive,
+  title={Autoregressive High-Order Finite Difference Modulo Imaging: High-Dynamic Range for Computer Vision Applications},
+  author={Monroy, Brayan and Contreras, Kebin and Bacca, Jorge},
+  booktitle={Computer Vision -- ECCV 2024 Workshops},
+  pages={211--228},
+  year={2025},
+  publisher={Springer Nature Switzerland},
+}
+```
